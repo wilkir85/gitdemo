@@ -1,9 +1,9 @@
 body {
     display flex;
-    background-color: red;
+    background-color: blues;
 }
 
 h1 {
-    font-size: 15rem;
-    
+    font-size: 16rem;
+
 }
